@@ -1,2 +1,2 @@
 # DataCompression-and-Decompression
-if yall wanna compress some shit go ahead
+if yall wanna compress smthn go ahead
